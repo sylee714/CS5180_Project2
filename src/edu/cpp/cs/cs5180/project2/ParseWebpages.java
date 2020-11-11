@@ -57,8 +57,6 @@ public class ParseWebpages {
 			}
 			webpages.add(wp);
 		}
-		
-		
 	}
 	
 	public ArrayList<Webpage> getWebpages() {
@@ -105,6 +103,20 @@ public class ParseWebpages {
 			System.out.println(e);
 		}
 		return url;
+	}
+	
+	public void printPageRanks() {
+//		System.out.println("Number of Webpages: " + webpages.size());
+		System.out.println("----------------------------------------------------------------");
+		for (int i = 0; i < webpages.size(); ++i) {
+//			System.out.println(i+1);
+			System.out.println("URL: " + webpages.get(i).getUrl());
+			System.out.println("Current PageRank: " + webpages.get(i).getCurPageRank());
+			System.out.println("Current PageRank: " + webpages.get(i).getNextPageRank());
+			System.out.println("Number of outlinks: " + webpages.get(i).getOutLinksSize());
+			System.out.println("Number of inlinks: " + webpages.get(i).getInLinksSize());
+			System.out.println("----------------------------------------------------------------");
+		}
 	}
 	
 	public void printWebPages() {

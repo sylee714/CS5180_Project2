@@ -1,13 +1,12 @@
 package edu.cpp.cs.cs5180.project2;
 import java.util.*;
 
-public class Webpage {
+public class Webpage implements Comparable<Webpage> {
 	private static int totalWebpage = 0;
 	private double curPageRank;
 	private double nextPageRank = 0.0;
 	private String url;
 	private HashMap<String, Integer> tempOutLinks = new HashMap<>();
-//	private ArrayList<String> tempOutLinks = new ArrayList<String>();
 	private ArrayList<Webpage> outLinks = new ArrayList<Webpage>();
 	private ArrayList<Webpage> inLinks = new ArrayList<Webpage>();
 	
@@ -101,4 +100,27 @@ public class Webpage {
 	public boolean isInLink(Webpage wp) {
 		return inLinks.contains(wp);
 	}
+	
+	public boolean isConvergence() {
+		return curPageRank == nextPageRank;
+	}
+	
+	public int getInLinksSize() {
+		return inLinks.size();
+	}
+	
+	public int getOutLinksSize() {
+		return outLinks.size();
+	}
+
+	@Override
+	public int compareTo(Webpage wp) {
+		double compareCurPr = wp.getCurPageRank();
+		if (this.curPageRank == compareCurPr) {
+			return 0;
+		} 
+		return this.curPageRank > compareCurPr ? -1 : 1;
+	}
+
+
 }

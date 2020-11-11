@@ -29,7 +29,9 @@ public class Main {
 	public static void main(String[] args) throws IOException {
 		String dir = "webpages";
 		ParseWebpages pwp = new ParseWebpages(dir);
-		pwp.printWebPages();
+		PageRank pr = new PageRank(pwp.getWebpages());
+		pr.calculate();
+		pr.sort();
 	}
 	
 	// Using Jsoup to connect and download a webpage
