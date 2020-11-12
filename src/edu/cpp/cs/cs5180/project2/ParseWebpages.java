@@ -12,10 +12,15 @@ import org.jsoup.safety.Whitelist;
 import org.jsoup.select.Elements;
 import org.jsoup.select.NodeVisitor;
 
+/**
+ * This class is used to parse downloaded webpages, creating and initializing webpage objects. 
+ * @author SYL
+ *
+ */
 public class ParseWebpages {
 	private String dir;
 	private ArrayList<Webpage> webpages = new ArrayList<Webpage>();
-	
+
 	public ParseWebpages(String dir) {
 		this.dir = dir;
 		initWebPages();
@@ -24,11 +29,15 @@ public class ParseWebpages {
 		initInLinks();
 	}
 	
+	/**
+	 * Parses and initializes webpage objects. Only sets temporary outlinks of each webpage.
+	 */
 	public void initWebPages() {
 		File folder = new File(dir);
 		File[] listOfFiles = folder.listFiles();
 		String filePath = "";
 		String url = "";
+		int num = 1;
 		
 		for (File file : listOfFiles) {
 			filePath = folder + "/" + file.getName();
@@ -37,6 +46,8 @@ public class ParseWebpages {
 			url = getURL(webPageFile);
 			// Create a webpage object with the url
 			Webpage wp = new Webpage(url);
+			wp.setNum(num);
+			num++;
 			ArrayList<String> tempOutLinks = new ArrayList<String>();
 			try {
 				Document doc = Jsoup.parse(webPageFile, "UTF-8", "");
@@ -52,7 +63,6 @@ public class ParseWebpages {
 				}
 				wp.setTempOutLinks(tempOutLinks);
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				System.out.println(e);
 			}
 			webpages.add(wp);
@@ -63,12 +73,19 @@ public class ParseWebpages {
 		return webpages;
 	}
 	
+	/**
+	 * Sets actual and valid outlinks of a webpage based on downloaded webpages.
+	 * @return
+	 */
 	public void initOutLinks() {
 		for (int i = 0; i < webpages.size(); ++i) {
 			webpages.get(i).setOutLinks(webpages);
 		}
 	}
 	
+	/**
+	 * Finds inlinks of a webpage and sets them as the inlinks of the webpage.
+	 */
 	public void initInLinks() {
 		for (int i = 0; i< webpages.size(); ++i) {
 			ArrayList<Webpage> inLinks = new ArrayList<>();
@@ -81,6 +98,9 @@ public class ParseWebpages {
 		}
 	}
 	
+	/**
+	 * Initializes current PageRank for every webpage. Initial vaule = 1/(total number of webpages)
+	 */
 	public void initCurPageRanks() {
 		int total = webpages.size();
 		for (int i = 0; i < total; ++i) {
@@ -88,6 +108,11 @@ public class ParseWebpages {
 		}
 	}
 	
+	/**
+	 * Gets the url of the webpage, which is in the first line of the file within comment tag.
+	 * @param file
+	 * @return url of the webpage
+	 */
 	public String getURL(File file) {
 		String url = "";
 		try {
@@ -105,35 +130,36 @@ public class ParseWebpages {
 		return url;
 	}
 	
-	public void printPageRanks() {
-//		System.out.println("Number of Webpages: " + webpages.size());
+	/**
+	 * Prints information of all the webpages.
+	 */
+	public void printInfo() {
 		System.out.println("----------------------------------------------------------------");
 		for (int i = 0; i < webpages.size(); ++i) {
-//			System.out.println(i+1);
 			System.out.println("URL: " + webpages.get(i).getUrl());
+			System.out.println("Num: " + webpages.get(i).getNum());
 			System.out.println("Current PageRank: " + webpages.get(i).getCurPageRank());
-			System.out.println("Current PageRank: " + webpages.get(i).getNextPageRank());
+			System.out.println("Next PageRank: " + webpages.get(i).getNextPageRank());
 			System.out.println("Number of outlinks: " + webpages.get(i).getOutLinksSize());
 			System.out.println("Number of inlinks: " + webpages.get(i).getInLinksSize());
 			System.out.println("----------------------------------------------------------------");
 		}
 	}
 	
-	public void printWebPages() {
+	/**
+	 * Prints information of all the webpages with their inlinks and outlinks.
+	 */
+	public void printInOutLinks() {
 		System.out.println("Number of Webpages: " + webpages.size());
 		System.out.println("----------------------------------------------------------------");
 		for (int i = 0; i < webpages.size(); ++i) {
 			System.out.println("URL: " + webpages.get(i).getUrl());
+			System.out.println("Num: " + webpages.get(i).getNum());
 			System.out.println("Current PageRank: " + webpages.get(i).getCurPageRank());
 			System.out.println();
 			webpages.get(i).printOutLinks();
 			System.out.println();
 			webpages.get(i).printInLinks();
-//			HashMap<String, Integer> wp = webpages.get(i).getTempOutLinks();
-//			System.out.println("Number of outlinks: " + wp.size());
-//			for (Map.Entry<String, Integer> entry : wp.entrySet()) {
-//				System.out.println(entry.getKey());
-//			}
 			System.out.println("----------------------------------------------------------------");
 		}
 	}

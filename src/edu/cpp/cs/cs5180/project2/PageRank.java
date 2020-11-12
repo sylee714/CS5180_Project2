@@ -3,10 +3,16 @@ package edu.cpp.cs.cs5180.project2;
 import java.util.ArrayList;
 import java.util.Collections;
 
+/**
+ * This class used to perform PageRank. It find the most important pages of the downloaded webpages.
+ * @author SYL
+ *
+ */
 public class PageRank {
-	
 	private ArrayList<Webpage> webpages;
+	// The total number of webpages
 	private int n;
+	// constant to used for PageRank (with teleporting) calculation
 	private final double LAMDA = .15; 
 	
 	public PageRank(ArrayList<Webpage> webpages) {
@@ -16,66 +22,55 @@ public class PageRank {
 	
 	
 	public void calculate() {
-		int iteration = 0;
+//		int iteration = 0;
 		ArrayList<Webpage> inlinks;
 		double pr;
-		System.out.println("Initial");
-		printPageRanks();
-		// for testing, just do 5 iterations for now
-		// need to iterate until convergence
-//		while (iteration < 5) {
+		boolean converged = false;
+//		System.out.println("Initial");
+//		printInfo();
+		// Calculate PageRank of each webpage until convergence (no change in the PageRank value of each webpage) 
+		while (!converged) {
 //			System.out.println("Iteration: " + (iteration+1));
-//			for (int i = 0; i < webpages.size(); ++i) {
-//				pr = 0.0;
-//				// Only do webpages with 1 or more inlinks
-//				if (webpages.get(i).getInLinksSize() > 0) {
-//					inlinks = webpages.get(i).getInLinks();
-//					// Go thru all the inlinks of the current webpage 
-//					// and calculate the new PageRank for the current webpage
-//					for (int j = 0; j < inlinks.size(); ++j) {
-//						pr = pr + inlinks.get(j).getCurPageRank()/inlinks.get(j).getOutLinksSize();
-//					}
-//					webpages.get(i).setNextPageRank(pr);
-//				} else if (webpages.get(i).getInLinksSize() == 0) {
-//					System.out.println("Zero inlinks");
-//					webpages.get(i).setNextPageRank(webpages.get(i).getCurPageRank());
-//				}
-//			}
-////			need to check if it converged before updating the next PageRank as the current PageRank
-//			printPageRanks();
-//			updateCurPageRank();
-//			iteration++;
-////			printPageRanks();
-//		}
-		
-		while (iteration < 100) {
-			System.out.println("Iteration: " + (iteration+1));
 			for (Webpage wp : webpages) {
 				pr = 0.0;
+				// Only the webpages with 1 or more inlinks
 				if (wp.getInLinksSize() > 0) {
 					inlinks = wp.getInLinks();
 					for (Webpage inlink : inlinks) {
 						pr = pr + inlink.getCurPageRank()/inlink.getOutLinksSize();
-						pr = LAMDA/n + (1.0-LAMDA)*pr;
 					}
+					pr = LAMDA/n + (1.0-LAMDA)*pr;
 					wp.setNextPageRank(pr);
+				// PageRank of webpages with 0 inlinks = Lamda/n
 				} else if (wp.getInLinksSize() == 0) {
 					pr = LAMDA/n;
 					wp.setNextPageRank(pr);
 				}
 			}
-			printPageRanks();
-			updateCurPageRank();
-			iteration++;
+//			printInfo();
+			// If no covergence, set the next PageRank as the current PageRank
+			if (!isConvergence()) {
+				updateCurPageRank();
+			} else {
+				converged = true;
+			}
+//			iteration++;
 		}
 	}
 	
+	/**
+	 * Sets the next PageRank as the current PageRank.
+	 */
 	public void updateCurPageRank() {
 		for (Webpage wp : webpages) {
 			wp.setCurPageRank(wp.getNextPageRank());
 		}
 	}
 	
+	/**
+	 * Checks if it converged
+	 * @return True if no change in PageRank for every webpage; otherwise, False
+	 */
 	public boolean isConvergence() {
 		boolean converged = true;
 		for (Webpage wp : webpages) {
@@ -86,25 +81,77 @@ public class PageRank {
 		return converged;
 	}
 	
-	public void printPageRanks() {
+	/**
+	 * Prints only the outlinks of the webpages
+	 */
+	public void printOutLinks() {
+		System.out.println("----------------------------------------------");
+		for (Webpage wp : webpages) {
+			System.out.println("Num: " + wp.getNum());
+			System.out.println("URL: " + wp.getUrl());
+			System.out.print("Outlinks: ");
+			for (Webpage outlink : wp.getOutLinks()) {
+				System.out.print(outlink.getNum() + ", ");
+			}
+			System.out.println();
+			System.out.println("----------------------------------------------");
+		}
+	}
+	
+	/**
+	 * Prints only the inlinks of the webpages
+	 */
+	public void printInLinks() {
+		System.out.println("----------------------------------------------");
+		for (Webpage wp : webpages) {
+			System.out.println("Num: " + wp.getNum());
+			System.out.println("Num of outlinks: " + wp.getOutLinksSize());
+			System.out.println("URL: " + wp.getUrl());
+			System.out.print("Inlinks: ");
+			for (Webpage outlink : wp.getInLinks()) {
+				System.out.print(outlink.getNum() + ", ");
+			}
+			System.out.println();
+			System.out.println("----------------------------------------------");
+		}
+	}
+	
+	/**
+	 * Prints all the information of the webpages.
+	 */
+	public void printInfo() {
 //		System.out.println("Number of Webpages: " + webpages.size());
 		System.out.println("----------------------------------------------------------------");
 		for (int i = 0; i < webpages.size(); ++i) {
 //			System.out.println(i+1);
 			System.out.println("URL: " + webpages.get(i).getUrl());
+			System.out.println("Num: " + webpages.get(i).getNum());
 			System.out.println("Current PageRank: " + webpages.get(i).getCurPageRank());
 			System.out.println("Next PageRank: " + webpages.get(i).getNextPageRank());
 			System.out.println("Number of outlinks: " + webpages.get(i).getOutLinksSize());
 			System.out.println("Number of inlinks: " + webpages.get(i).getInLinksSize());
+			System.out.print("Inlinks: ");
+			for (Webpage outlink : webpages.get(i).getInLinks()) {
+				System.out.print(outlink.getNum() + ", ");
+			}
+			System.out.println();
 			System.out.println("----------------------------------------------------------------");
 		}
 	}
 	
+	/**
+	 * Sort the webpages in descending PageRank order 
+	 */
 	public void sort() {
-		System.out.println("----------------------------------------------------");
-		System.out.println("Final Result");
 		Collections.sort(webpages);
-		
+	}
+	
+	/**
+	 * Prints the result
+	 */
+	public void printResult() {
+		System.out.println("Final Result");
+		System.out.println("----------------------------------------------------");
 		for (Webpage wp : webpages ) {
 			System.out.println("Url: " + wp.getUrl());
 			System.out.println("Current PR: " + wp.getCurPageRank());

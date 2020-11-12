@@ -1,26 +1,33 @@
 package edu.cpp.cs.cs5180.project2;
 import java.util.*;
 
+/**
+ * This class represents a webpage. Implements Comparable to sort webpages in decreasing current PageRank order.
+ * @author SYL
+ *
+ */
 public class Webpage implements Comparable<Webpage> {
-	private static int totalWebpage = 0;
+	//To easily identify a webpage
+	private int num;
+	// Current PageRank of a webpage; initial value = 1/(total number of webpages)
 	private double curPageRank;
 	private double nextPageRank = 0.0;
 	private String url;
+	// Initially have all outlinks of a webpage; later use hashmap to check if downloaded webpage is actually one of the outlinks of a webpage
 	private HashMap<String, Integer> tempOutLinks = new HashMap<>();
 	private ArrayList<Webpage> outLinks = new ArrayList<Webpage>();
 	private ArrayList<Webpage> inLinks = new ArrayList<Webpage>();
 	
 	public Webpage(String url) {
-		totalWebpage++;
 		this.url = url;
 	}
-
-	public static int getTotalWebpage() {
-		return totalWebpage;
+	
+	public int getNum() {
+		return num;
 	}
-
-	public static void setTotalWebpage(int totalWebpage) {
-		Webpage.totalWebpage = totalWebpage;
+	
+	public void setNum(int num) {
+		this.num = num;
 	}
 
 	public double getCurPageRank() {
@@ -55,7 +62,6 @@ public class Webpage implements Comparable<Webpage> {
 		for (int i = 0; i < outLinks.size(); ++i) {
 			// If a url is one of temp outlinks, add to the actual outlink list.
 			if (tempOutLinks.containsKey(outLinks.get(i).getUrl())) {
-//				System.out.println("Found a valid outlink");
 				this.outLinks.add(outLinks.get(i));
 			}
 		}
