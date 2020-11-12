@@ -88,8 +88,12 @@ public class Crawler {
 					
 					// for loop loops through each outlink found from the url and
 					// recursively finds more outlinks 
+					// filter links with "cpp" in the url
 					for (Element page : pageLinks) {
-						getLinks(page.attr("abs:href"), depth);
+						String url = page.attr("abs:href");
+                                        	CharSequence seq = "cpp";
+                                        	if (url.contains(seq))
+							getLinks(page.attr("abs:href"), depth);
 					}
 				} catch (IOException e) {
 					// prints out error if the url CANNOT be crawled
