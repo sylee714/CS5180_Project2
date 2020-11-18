@@ -1,0 +1,1185 @@
+Final Result
+----------------------------------------------------
+Url: https://www.cpp.edu/file-viewers.shtml
+Current PR: 0.08132376813494274
+Number of Outlinks: 7
+Number of Inlinks: 209
+-----------------------------------------------------
+Url: https://www.cpp.edu/privacy.shtml
+Current PR: 0.07881118650756501
+Number of Outlinks: 7
+Number of Inlinks: 178
+-----------------------------------------------------
+Url: https://www.cpp.edu/accessibility.shtml
+Current PR: 0.07853380264100362
+Number of Outlinks: 7
+Number of Inlinks: 177
+-----------------------------------------------------
+Url: https://www.cpp.edu/website-feedback.shtml
+Current PR: 0.07660595235203851
+Number of Outlinks: 7
+Number of Inlinks: 130
+-----------------------------------------------------
+Url: https://www.cpp.edu/~aboutcpp/index.shtml
+Current PR: 0.0759978461652412
+Number of Outlinks: 10
+Number of Inlinks: 190
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/coronavirus/
+Current PR: 0.07495211777862863
+Number of Outlinks: 10
+Number of Inlinks: 132
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/index.shtml
+Current PR: 0.07462263649911034
+Number of Outlinks: 27
+Number of Inlinks: 129
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/coronavirus/offices-services.shtml
+Current PR: 0.014076572069498156
+Number of Outlinks: 12
+Number of Inlinks: 21
+-----------------------------------------------------
+Url: http://www.cpp.edu/~aboutcpp/administration.shtml
+Current PR: 0.01007054176219315
+Number of Outlinks: 7
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~aboutcpp/visitor-information/directions.shtml
+Current PR: 0.01007054176219315
+Number of Outlinks: 7
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/academic-instruction.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 22
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/athletics.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/checklist/index.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/materials.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/dining.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 22
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/events.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/face-coverings.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/health-and-well-being.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 31
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/housing.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/library.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/facilities.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/student-life.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 22
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/key-areas-of-effort/technology-support.shtml
+Current PR: 0.007705642058314723
+Number of Outlinks: 21
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/studentsuccess/virtual-advising-toolkit.shtml
+Current PR: 0.007691137884473389
+Number of Outlinks: 10
+Number of Inlinks: 7
+-----------------------------------------------------
+Url: https://www.cpp.edu/giving/about-us.shtml
+Current PR: 0.0075313732561057885
+Number of Outlinks: 27
+Number of Inlinks: 7
+-----------------------------------------------------
+Url: https://www.cpp.edu/cafe/remote-teaching/
+Current PR: 0.007216923227020538
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: http://portfolios.cpp.edu/
+Current PR: 0.005072747019658627
+Number of Outlinks: 2
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: https://apps.cpp.edu/bronco411/search/
+Current PR: 0.004666625536301568
+Number of Outlinks: 2
+Number of Inlinks: 83
+-----------------------------------------------------
+Url: http://www.cpp.edu/giving/ways-give.shtml
+Current PR: 0.004451578567579281
+Number of Outlinks: 9
+Number of Inlinks: 77
+-----------------------------------------------------
+Url: http://www.cpp.edu/giving/where-to-give.shtml
+Current PR: 0.004451578567579281
+Number of Outlinks: 9
+Number of Inlinks: 77
+-----------------------------------------------------
+Url: https://my.cpp.edu
+Current PR: 0.004009883300786618
+Number of Outlinks: 3
+Number of Inlinks: 81
+-----------------------------------------------------
+Url: https://www.cpp.edu/~library/index.shtml
+Current PR: 0.003918749825719746
+Number of Outlinks: 7
+Number of Inlinks: 78
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/food-resources/cal-fresh-outreach.shtml
+Current PR: 0.003778952336019832
+Number of Outlinks: 23
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/events/
+Current PR: 0.0037192931811568333
+Number of Outlinks: 29
+Number of Inlinks: 80
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/diversity/index.shtml
+Current PR: 0.0036283988535945814
+Number of Outlinks: 25
+Number of Inlinks: 77
+-----------------------------------------------------
+Url: http://www.cpp.edu/~academics/academic-resources/index.shtml
+Current PR: 0.0036212252826190575
+Number of Outlinks: 22
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/campus-safety-info/index.shtml
+Current PR: 0.0036212252826190575
+Number of Outlinks: 24
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/housing-dining/index.shtml
+Current PR: 0.0036212252826190575
+Number of Outlinks: 7
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/recreation-fitness/index.shtml
+Current PR: 0.0036212252826190575
+Number of Outlinks: 22
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~academics/research.shtml
+Current PR: 0.0036212252826190575
+Number of Outlinks: 22
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/student-activities/index.shtml
+Current PR: 0.0036212252826190575
+Number of Outlinks: 24
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/student-services/index.shtml
+Current PR: 0.0036212252826190575
+Number of Outlinks: 22
+Number of Inlinks: 76
+-----------------------------------------------------
+Url: http://www.cpp.edu/~academics/index.shtml
+Current PR: 0.0036107248381476386
+Number of Outlinks: 22
+Number of Inlinks: 75
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/index.shtml
+Current PR: 0.0036107248381476386
+Number of Outlinks: 26
+Number of Inlinks: 75
+-----------------------------------------------------
+Url: http://www.cpp.edu/~campus-life/health-wellness/index.shtml
+Current PR: 0.0036107248381476386
+Number of Outlinks: 22
+Number of Inlinks: 75
+-----------------------------------------------------
+Url: http://www.cpp.edu/~registrar/index.shtml
+Current PR: 0.0036107248381476386
+Number of Outlinks: 7
+Number of Inlinks: 75
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/faculty/index.shtml
+Current PR: 0.0032549593273475275
+Number of Outlinks: 23
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/staff/index.shtml
+Current PR: 0.0032549593273475275
+Number of Outlinks: 21
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/students/index.shtml
+Current PR: 0.0032549593273475275
+Number of Outlinks: 23
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/managers/index.shtml
+Current PR: 0.0032549593273475275
+Number of Outlinks: 21
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/index.shtml
+Current PR: 0.0032479559692205296
+Number of Outlinks: 23
+Number of Inlinks: 23
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/auxiliary.shtml
+Current PR: 0.0030436755934905107
+Number of Outlinks: 21
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/safety/safer-return/visitors/index.shtml
+Current PR: 0.0030436755934905107
+Number of Outlinks: 21
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/forms/assistance-application.shtml
+Current PR: 0.0029931455482873964
+Number of Outlinks: 23
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/emergency-funds/grants.shtml
+Current PR: 0.0029931455482873964
+Number of Outlinks: 23
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/food-resources/poly-pantry.shtml
+Current PR: 0.0029510998705961863
+Number of Outlinks: 23
+Number of Inlinks: 21
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/emergency-funds/clothes-closet.shtml
+Current PR: 0.002879018021388726
+Number of Outlinks: 23
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/~career/
+Current PR: 0.0028575354987748847
+Number of Outlinks: 25
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://asi.cpp.edu/
+Current PR: 0.0028378104151280804
+Number of Outlinks: 10
+Number of Inlinks: 9
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/events/2020-hahaw.shtml
+Current PR: 0.0027991853285948597
+Number of Outlinks: 23
+Number of Inlinks: 20
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/events/2019-hahaw.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/events/calfreshoutreachday.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/forms/covid-19-resource-list.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/about/give.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/events/hhawarenessweek.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/about/mailinglist.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/food-resources/meal-assistance.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/about/staff.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/basicneeds/housing-resources/emergency-housing.shtml
+Current PR: 0.00278186181443038
+Number of Outlinks: 23
+Number of Inlinks: 19
+-----------------------------------------------------
+Url: https://www.cpp.edu/caps/index.shtml
+Current PR: 0.0023880211674734307
+Number of Outlinks: 10
+Number of Inlinks: 7
+-----------------------------------------------------
+Url: https://www.cpp.edu/health/bronco-wellness-services.shtml
+Current PR: 0.0022197487017734906
+Number of Outlinks: 9
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.foundation.cpp.edu/dining/
+Current PR: 0.0020699973390238984
+Number of Outlinks: 3
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/broncodreamers/index.shtml
+Current PR: 0.0018717005330512008
+Number of Outlinks: 8
+Number of Inlinks: 9
+-----------------------------------------------------
+Url: https://www.foundation.cpp.edu/dining/hours.aspx
+Current PR: 0.0018120247059741743
+Number of Outlinks: 3
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/students/ltd-fye-showcase.shtml
+Current PR: 0.00168513762405507
+Number of Outlinks: 21
+Number of Inlinks: 16
+-----------------------------------------------------
+Url: http://www.cpp.edu/stratcomm
+Current PR: 0.0016743693456790902
+Number of Outlinks: 22
+Number of Inlinks: 41
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/students/ltd-fye-challenge.shtml
+Current PR: 0.0016678141098905904
+Number of Outlinks: 21
+Number of Inlinks: 15
+-----------------------------------------------------
+Url: https://asi.cpp.edu/student-government/about-sg/
+Current PR: 0.0016133144588919147
+Number of Outlinks: 6
+Number of Inlinks: 6
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/index.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/faculty-and-staff/ltd-institutes.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/faculty-and-staff/ltd-sandboxes.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/contact-us/steering-committee.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/contact-us/task-force.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/news-and-events/index.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/news-and-events/newsletter.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/resources/index.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/resources/podcasts.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/hatchery/index.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/learndiscovery/news-and-events/events.shtml
+Current PR: 0.001589410189461442
+Number of Outlinks: 20
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/~studentsuccess/directories/advising-directory.shtml
+Current PR: 0.0015625791904537588
+Number of Outlinks: 9
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/~studentsuccess/oss/graduation-pledge/index.shtml
+Current PR: 0.0015625791904537588
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: http://www.cpp.edu/veterans/admissions/index.shtml
+Current PR: 0.0014924254100992336
+Number of Outlinks: 23
+Number of Inlinks: 41
+-----------------------------------------------------
+Url: https://www.cpp.edu/student-affairs/covid19.shtml
+Current PR: 0.0014656824169816305
+Number of Outlinks: 10
+Number of Inlinks: 8
+-----------------------------------------------------
+Url: http://www.cpp.edu/~extended-education/index.shtml
+Current PR: 0.0014477710024582895
+Number of Outlinks: 22
+Number of Inlinks: 41
+-----------------------------------------------------
+Url: http://www.cpp.edu/~outreach/index.shtml
+Current PR: 0.0014477710024582895
+Number of Outlinks: 7
+Number of Inlinks: 41
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/10/915th-cyber-warfare-battalion-expeditionary-cyber-soldiers/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/about/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/achievements/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/announcements/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/archives/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 55
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/browse-by-topic/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/11/cactus-bloom/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 55
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/01/cal-poly-universities-rose-float-wins-for-outstanding-artistic-design/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/contact/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/10/first-ever-latino-chancellor-in-cal-state-history-appointed-for-2021/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/10/grandfather-builds-mini-disneyland-in-his-own-backyard/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/in-memoriam/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/in-the-news/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/multimedia/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/01/new-dining-commons-to-open-at-cal-poly-pomona/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/news/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 55
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/10/okc-thunder-coaching-search-five-things-to-know-about-rex-kalamian/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/05/passing-of-campus-leader-in-student-affairs/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 55
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/multimedia/photo-multimedia/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/picture-of-the-day/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/social-media/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/about/submissions/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/09/us-news-ranks-cal-poly-pomona-no-2-top-public-school-in-west/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/08/university-is-top-csu-on-moneys-best-colleges-ranking/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 54
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/category/multimedia/video-multimedia/
+Current PR: 0.0014372705579868705
+Number of Outlinks: 53
+Number of Inlinks: 40
+-----------------------------------------------------
+Url: https://asi.cpp.edu/childrens-center/
+Current PR: 0.0013809530848185843
+Number of Outlinks: 6
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://asi.cpp.edu/campusrec/
+Current PR: 0.0012191815397430321
+Number of Outlinks: 5
+Number of Inlinks: 6
+-----------------------------------------------------
+Url: https://www.cpp.edu/~parking/index.shtml
+Current PR: 0.0011519991545584011
+Number of Outlinks: 10
+Number of Inlinks: 8
+-----------------------------------------------------
+Url: https://www.cpp.edu/health/index.shtml
+Current PR: 0.0011479281097082216
+Number of Outlinks: 9
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/transportation/commuting-to-campus/rideshare.shtml
+Current PR: 0.001092894500911448
+Number of Outlinks: 13
+Number of Inlinks: 8
+-----------------------------------------------------
+Url: https://www.cpp.edu/~alumni/
+Current PR: 0.0010894878094897579
+Number of Outlinks: 7
+Number of Inlinks: 6
+-----------------------------------------------------
+Url: http://www.cpp.edu/~oslcc/index.shtml
+Current PR: 0.0010817786770740084
+Number of Outlinks: 7
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/transportation/commuting-to-campus/bronco-shuttle.shtml
+Current PR: 0.001078961218824373
+Number of Outlinks: 13
+Number of Inlinks: 7
+-----------------------------------------------------
+Url: https://www.cpp.edu/giving/index.shtml
+Current PR: 0.0010715563320602855
+Number of Outlinks: 10
+Number of Inlinks: 6
+-----------------------------------------------------
+Url: https://www.cpp.edu/
+Current PR: 0.001039410849868771
+Number of Outlinks: 51
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~police/index.shtml
+Current PR: 9.844741283025651E-4
+Number of Outlinks: 9
+Number of Inlinks: 6
+-----------------------------------------------------
+Url: https://foundation.cpp.edu/broncobucks/
+Current PR: 9.79001881981351E-4
+Number of Outlinks: 3
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/
+Current PR: 9.76659218477113E-4
+Number of Outlinks: 54
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/campus-safety-plan.shtml
+Current PR: 9.764943071853157E-4
+Number of Outlinks: 8
+Number of Inlinks: 7
+-----------------------------------------------------
+Url: https://www.cpp.edu/transportation/commuting-to-campus/bike-walk.shtml
+Current PR: 9.705408462154899E-4
+Number of Outlinks: 13
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/transportation/commuting-to-campus/riding-the-bus.shtml
+Current PR: 9.705408462154899E-4
+Number of Outlinks: 13
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: http://www.cpp.edu/~officeofequity/
+Current PR: 9.674602304016586E-4
+Number of Outlinks: 7
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: http://www.cpp.edu/~drc/index.shtml
+Current PR: 9.535269483145834E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/11/future-forward-event-opens-career-opportunities-for-student-veteran/
+Current PR: 8.732670001371976E-4
+Number of Outlinks: 66
+Number of Inlinks: 14
+-----------------------------------------------------
+Url: https://www.cpp.edu/faculty-staff-gateway/index.shtml
+Current PR: 8.523890217975388E-4
+Number of Outlinks: 52
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/family/index.shtml
+Current PR: 8.523890217975388E-4
+Number of Outlinks: 9
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/prospective-student-gateway/index.shtml
+Current PR: 8.523890217975388E-4
+Number of Outlinks: 101
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/student-gateway/index.shtml
+Current PR: 8.523890217975388E-4
+Number of Outlinks: 69
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/philanthropy/
+Current PR: 8.344575443680662E-4
+Number of Outlinks: 7
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: http://www.cpp.edu/admin-affairs/index.shtml
+Current PR: 8.317485383417532E-4
+Number of Outlinks: 8
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: http://www.cpp.edu/it/index.shtml
+Current PR: 8.317485383417532E-4
+Number of Outlinks: 8
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/studentsuccess/oss/fye/common-read-events.shtml
+Current PR: 8.301591574851021E-4
+Number of Outlinks: 9
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/admissions/
+Current PR: 8.236441210259409E-4
+Number of Outlinks: 13
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/jobs/index.shtml
+Current PR: 8.223588771081294E-4
+Number of Outlinks: 23
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/~veterans/
+Current PR: 8.111743645987135E-4
+Number of Outlinks: 23
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/annual-security-report.shtml
+Current PR: 8.030127874536393E-4
+Number of Outlinks: 7
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://polycentric.cpp.edu
+Current PR: 8.030127874536393E-4
+Number of Outlinks: 55
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/~compass/
+Current PR: 7.995379435574324E-4
+Number of Outlinks: 7
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: http://www.cpp.edu/oslcc/greek-life/index.shtml
+Current PR: 7.967758991791746E-4
+Number of Outlinks: 8
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: https://www.cpp.edu/inclusive-excellence/commitment-to-action/index.shtml
+Current PR: 7.963837299120827E-4
+Number of Outlinks: 8
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/cppmag/horses-for-heroes.shtml
+Current PR: 7.895844082805671E-4
+Number of Outlinks: 8
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: http://www.cpp.edu/student-affairs/index.shtml
+Current PR: 7.880303068653095E-4
+Number of Outlinks: 15
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/~officeofequity/titleIX/index.shtml
+Current PR: 7.856892732891598E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/registrar//transfer-credit-info/index.shtml
+Current PR: 7.850271501202442E-4
+Number of Outlinks: 8
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/em/emergency-procedures.shtml
+Current PR: 7.804352764970935E-4
+Number of Outlinks: 24
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/~financial-aid/
+Current PR: 7.716734378901645E-4
+Number of Outlinks: 23
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: https://www.cpp.edu/stratcomm/for-the-media.shtml
+Current PR: 7.706698119840435E-4
+Number of Outlinks: 24
+Number of Inlinks: 5
+-----------------------------------------------------
+Url: https://www.cpp.edu/~international/study-abroad/index.shtml
+Current PR: 7.638667022034091E-4
+Number of Outlinks: 24
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/~studentsuccess/oss/early-start/
+Current PR: 7.554716694870491E-4
+Number of Outlinks: 7
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~gradstudies/
+Current PR: 7.554716694870491E-4
+Number of Outlinks: 7
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~outreach/tours.shtml
+Current PR: 7.554716694870491E-4
+Number of Outlinks: 7
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~outreach/pre-admission-advising.shtml
+Current PR: 7.554716694870491E-4
+Number of Outlinks: 8
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/11/
+Current PR: 7.501157912385329E-4
+Number of Outlinks: 55
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2020/10/ssb-wins-l-a-business-council-architectural-award-for-sustainability/
+Current PR: 7.463905194020955E-4
+Number of Outlinks: 54
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: https://www.cpp.edu/~student-accounting/
+Current PR: 7.441760177863503E-4
+Number of Outlinks: 24
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: https://www.cpp.edu/alpha-index/index.shtml
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: http://www.cpp.edu/academic-affairs/index.shtml
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 22
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/academic-manual
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/cba/
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/ceis/
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 23
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/engineering/
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/class/
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 23
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/sci
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 8
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/contact.shtml
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 39
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/em/
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 24
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: http://www.cpp.edu/president/
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/collins/
+Current PR: 7.433752561429419E-4
+Number of Outlinks: 7
+Number of Inlinks: 4
+-----------------------------------------------------
+Url: https://www.cpp.edu/~honorscollege/index.shtml
+Current PR: 7.371826706950178E-4
+Number of Outlinks: 25
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/2019/10/veterans-resource-center-hosts-future-forward-event/
+Current PR: 7.278448068242676E-4
+Number of Outlinks: 56
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: https://www.cpp.edu/~ssep/index.shtml
+Current PR: 7.273793680379801E-4
+Number of Outlinks: 24
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~international/index.shtml
+Current PR: 7.263126453622861E-4
+Number of Outlinks: 25
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/broncodreamers/carecen/about.shtml
+Current PR: 7.260517419784624E-4
+Number of Outlinks: 8
+Number of Inlinks: 3
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/future-forward/
+Current PR: 7.167387092900537E-4
+Number of Outlinks: 55
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/veterans-resource-center/
+Current PR: 7.167387092900537E-4
+Number of Outlinks: 55
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~lrc/
+Current PR: 7.155512975070434E-4
+Number of Outlinks: 7
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~academics/colleges-departments/index.shtml
+Current PR: 7.121184598913873E-4
+Number of Outlinks: 23
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~cppbit/
+Current PR: 7.121184598913873E-4
+Number of Outlinks: 8
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/~academics/majors-degrees/index.shtml
+Current PR: 7.121184598913873E-4
+Number of Outlinks: 23
+Number of Inlinks: 2
+-----------------------------------------------------
+Url: https://www.cpp.edu/polyadvantage/index.shtml
+Current PR: 7.11767958608924E-4
+Number of Outlinks: 7
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/president/from-the-president/2020-fall/2020-election-patience-values.shtml
+Current PR: 7.11767958608924E-4
+Number of Outlinks: 7
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/horses-for-heroes/
+Current PR: 7.056910649007569E-4
+Number of Outlinks: 54
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/internship/
+Current PR: 7.056910649007569E-4
+Number of Outlinks: 54
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/jamie-orozco/
+Current PR: 7.056910649007569E-4
+Number of Outlinks: 54
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/northrop-grumman/
+Current PR: 7.056910649007569E-4
+Number of Outlinks: 54
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/students/
+Current PR: 7.056910649007569E-4
+Number of Outlinks: 54
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/veteran-students/
+Current PR: 7.056910649007569E-4
+Number of Outlinks: 54
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: http://polycentric.cpp.edu/tag/vrc/
+Current PR: 7.056910649007569E-4
+Number of Outlinks: 54
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~deanofstudents/bdrc/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 1
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~polytransfer/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 23
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~cce/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 7
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~mobile-app/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 23
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~agri/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 23
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~studentsuccess/oss/fye/index.shtml
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 7
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~housing/housing-options/index.shtml
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 23
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~our-cpp/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 7
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~orientation/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 7
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/em/emergency-communication/safety-alert-system.shtml
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 24
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/police/programs-and-services/safety-escort-service.shtml#cso
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 8
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~studentconduct/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 7
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://www.cpp.edu/~studentsuccess/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 10
+Number of Inlinks: 1
+-----------------------------------------------------
+Url: https://foundation.cpp.edu/village/
+Current PR: 7.016180154199684E-4
+Number of Outlinks: 10
+Number of Inlinks: 1
+-----------------------------------------------------
+Total PR: 1.0000000000000027
+-----------------------------------------------------
+Rank       PageRank        # of Inlinks         # of Outlinks        Num        URL 
+1          0.081324        209                  7                    90         https://www.cpp.edu/file-viewers.shtml 
+2          0.078811        178                  7                    163        https://www.cpp.edu/privacy.shtml 
+3          0.078534        177                  7                    21         https://www.cpp.edu/accessibility.shtml 
+4          0.076606        130                  7                    223        https://www.cpp.edu/website-feedback.shtml 
+5          0.075998        190                  10                   11         https://www.cpp.edu/~aboutcpp/index.shtml 
+6          0.074952        132                  10                   107        https://www.cpp.edu/safety/coronavirus/ 
+7          0.074623        129                  27                   179        https://www.cpp.edu/safety/safer-return/index.shtml 
+8          0.014077        21                   12                   145        https://www.cpp.edu/safety/coronavirus/offices-services.shtml 
+9          0.010071        76                   7                    23         http://www.cpp.edu/~aboutcpp/administration.shtml 
+10         0.010071        76                   7                    74         http://www.cpp.edu/~aboutcpp/visitor-information/directions.shtml 
+11         0.007706        20                   22                   18         https://www.cpp.edu/safety/safer-return/key-areas-of-effort/academic-instruction.shtml 
+12         0.007706        20                   21                   30         https://www.cpp.edu/safety/safer-return/key-areas-of-effort/athletics.shtml 
+13         0.007706        20                   21                   53         https://www.cpp.edu/safety/safer-return/checklist/index.shtml 
+14         0.007706        20                   21                   67         https://www.cpp.edu/safety/safer-return/materials.shtml 
+15         0.007706        20                   22                   72         https://www.cpp.edu/safety/safer-return/key-areas-of-effort/dining.shtml 
+16         0.007706        20                   21                   86         https://www.cpp.edu/safety/safer-return/key-areas-of-effort/events.shtml 
+17         0.007706        20                   21                   87         https://www.cpp.edu/safety/safer-return/key-areas-of-effort/face-coverings.shtml 
+18         0.007706        20                   31                   108        https://www.cpp.edu/safety/safer-return/key-areas-of-effort/health-and-well-being.shtml 
+19         0.007706        20                   21                   113        https://www.cpp.edu/safety/safer-return/key-areas-of-effort/housing.shtml 
+20         0.007706        20                   21                   126        https://www.cpp.edu/safety/safer-return/key-areas-of-effort/library.shtml 
+21         0.007706        20                   21                   182        https://www.cpp.edu/safety/safer-return/key-areas-of-effort/facilities.shtml 
+22         0.007706        20                   22                   191        https://www.cpp.edu/safety/safer-return/key-areas-of-effort/student-life.shtml 
+23         0.007706        20                   21                   200        https://www.cpp.edu/safety/safer-return/key-areas-of-effort/technology-support.shtml 
+24         0.007691        7                    10                   89         https://www.cpp.edu/studentsuccess/virtual-advising-toolkit.shtml 
+25         0.007531        7                    27                   15         https://www.cpp.edu/giving/about-us.shtml 
+26         0.007217        4                    7                    170        https://www.cpp.edu/cafe/remote-teaching/ 
+27         0.005073        40                   2                    47         http://portfolios.cpp.edu/ 
+28         0.004667        83                   2                    32         https://apps.cpp.edu/bronco411/search/ 
+29         0.004452        77                   9                    222        http://www.cpp.edu/giving/ways-give.shtml 
+30         0.004452        77                   9                    224        http://www.cpp.edu/giving/where-to-give.shtml 
+31         0.004010        81                   3                    71         https://my.cpp.edu 
+32         0.003919        78                   7                    211        https://www.cpp.edu/~library/index.shtml 
+33         0.003779        20                   23                   39         https://www.cpp.edu/basicneeds/food-resources/cal-fresh-outreach.shtml 
+34         0.003719        80                   29                   38         https://www.cpp.edu/events/ 
+35         0.003628        77                   25                   76         http://www.cpp.edu/~campus-life/diversity/index.shtml 
+36         0.003621        76                   22                   16         http://www.cpp.edu/~academics/academic-resources/index.shtml 
+37         0.003621        76                   24                   50         http://www.cpp.edu/~campus-life/campus-safety-info/index.shtml 
+38         0.003621        76                   7                    114        http://www.cpp.edu/~campus-life/housing-dining/index.shtml 
+39         0.003621        76                   22                   166        http://www.cpp.edu/~campus-life/recreation-fitness/index.shtml 
+40         0.003621        76                   22                   171        http://www.cpp.edu/~academics/research.shtml 
+41         0.003621        76                   24                   188        http://www.cpp.edu/~campus-life/student-activities/index.shtml 
+42         0.003621        76                   22                   193        http://www.cpp.edu/~campus-life/student-services/index.shtml 
+43         0.003611        75                   22                   20         http://www.cpp.edu/~academics/index.shtml 
+44         0.003611        75                   26                   49         http://www.cpp.edu/~campus-life/index.shtml 
+45         0.003611        75                   22                   106        http://www.cpp.edu/~campus-life/health-wellness/index.shtml 
+46         0.003611        75                   7                    169        http://www.cpp.edu/~registrar/index.shtml 
+47         0.003255        2                    23                   172        https://www.cpp.edu/safety/safer-return/faculty/index.shtml 
+48         0.003255        2                    21                   173        https://www.cpp.edu/safety/safer-return/staff/index.shtml 
+49         0.003255        2                    23                   174        https://www.cpp.edu/safety/safer-return/students/index.shtml 
+50         0.003255        2                    21                   176        https://www.cpp.edu/safety/safer-return/managers/index.shtml 
+51         0.003248        23                   23                   34         https://www.cpp.edu/basicneeds/index.shtml 
+52         0.003044        1                    21                   94         https://www.cpp.edu/safety/safer-return/auxiliary.shtml 
+53         0.003044        1                    21                   175        https://www.cpp.edu/safety/safer-return/visitors/index.shtml 
+54         0.002993        20                   23                   27         https://www.cpp.edu/basicneeds/forms/assistance-application.shtml 
+55         0.002993        20                   23                   82         https://www.cpp.edu/basicneeds/emergency-funds/grants.shtml 
+56         0.002951        21                   23                   161        https://www.cpp.edu/basicneeds/food-resources/poly-pantry.shtml 
+57         0.002879        20                   23                   55         https://www.cpp.edu/basicneeds/emergency-funds/clothes-closet.shtml 
+58         0.002858        2                    25                   51         https://www.cpp.edu/~career/ 
+59         0.002838        9                    10                   29         https://asi.cpp.edu/ 
+60         0.002799        20                   23                   7          https://www.cpp.edu/basicneeds/events/2020-hahaw.shtml 
+61         0.002782        19                   23                   5          https://www.cpp.edu/basicneeds/events/2019-hahaw.shtml 
+62         0.002782        19                   23                   40         https://www.cpp.edu/basicneeds/events/calfreshoutreachday.shtml 
+63         0.002782        19                   23                   68         https://www.cpp.edu/basicneeds/forms/covid-19-resource-list.shtml 
+64         0.002782        19                   23                   101        https://www.cpp.edu/basicneeds/about/give.shtml 
+65         0.002782        19                   23                   116        https://www.cpp.edu/basicneeds/events/hhawarenessweek.shtml 
+66         0.002782        19                   23                   122        https://www.cpp.edu/basicneeds/about/mailinglist.shtml 
+67         0.002782        19                   23                   132        https://www.cpp.edu/basicneeds/food-resources/meal-assistance.shtml 
+68         0.002782        19                   23                   152        https://www.cpp.edu/basicneeds/about/staff.shtml 
+69         0.002782        19                   23                   183        https://www.cpp.edu/basicneeds/housing-resources/emergency-housing.shtml 
+70         0.002388        7                    10                   66         https://www.cpp.edu/caps/index.shtml 
+71         0.002220        5                    9                    35         https://www.cpp.edu/health/bronco-wellness-services.shtml 
+72         0.002070        5                    3                    110        https://www.foundation.cpp.edu/dining/ 
+73         0.001872        9                    8                    209        https://www.cpp.edu/broncodreamers/index.shtml 
+74         0.001812        4                    3                    73         https://www.foundation.cpp.edu/dining/hours.aspx 
+75         0.001685        16                   21                   100        https://www.cpp.edu/learndiscovery/students/ltd-fye-showcase.shtml 
+76         0.001674        41                   22                   186        http://www.cpp.edu/stratcomm 
+77         0.001668        15                   21                   99         https://www.cpp.edu/learndiscovery/students/ltd-fye-challenge.shtml 
+78         0.001613        6                    6                    14         https://asi.cpp.edu/student-government/about-sg/ 
+79         0.001589        14                   20                   125        https://www.cpp.edu/learndiscovery/index.shtml 
+80         0.001589        14                   20                   127        https://www.cpp.edu/learndiscovery/faculty-and-staff/ltd-institutes.shtml 
+81         0.001589        14                   20                   128        https://www.cpp.edu/learndiscovery/faculty-and-staff/ltd-sandboxes.shtml 
+82         0.001589        14                   20                   129        https://www.cpp.edu/learndiscovery/contact-us/steering-committee.shtml 
+83         0.001589        14                   20                   130        https://www.cpp.edu/learndiscovery/contact-us/task-force.shtml 
+84         0.001589        14                   20                   135        https://www.cpp.edu/learndiscovery/news-and-events/index.shtml 
+85         0.001589        14                   20                   136        https://www.cpp.edu/learndiscovery/news-and-events/newsletter.shtml 
+86         0.001589        14                   20                   148        https://www.cpp.edu/learndiscovery/resources/index.shtml 
+87         0.001589        14                   20                   159        https://www.cpp.edu/learndiscovery/resources/podcasts.shtml 
+88         0.001589        14                   20                   164        https://www.cpp.edu/learndiscovery/hatchery/index.shtml 
+89         0.001589        14                   20                   214        https://www.cpp.edu/learndiscovery/news-and-events/events.shtml 
+90         0.001563        4                    9                    24         https://www.cpp.edu/~studentsuccess/directories/advising-directory.shtml 
+91         0.001563        4                    7                    104        https://www.cpp.edu/~studentsuccess/oss/graduation-pledge/index.shtml 
+92         0.001492        41                   23                   215        http://www.cpp.edu/veterans/admissions/index.shtml 
+93         0.001466        8                    10                   199        https://www.cpp.edu/student-affairs/covid19.shtml 
+94         0.001448        41                   22                   61         http://www.cpp.edu/~extended-education/index.shtml 
+95         0.001448        41                   7                    153        http://www.cpp.edu/~outreach/index.shtml 
+96         0.001437        40                   54                   9          http://polycentric.cpp.edu/2020/10/915th-cyber-warfare-battalion-expeditionary-cyber-soldiers/ 
+97         0.001437        40                   53                   13         http://polycentric.cpp.edu/about/ 
+98         0.001437        40                   53                   22         http://polycentric.cpp.edu/category/achievements/ 
+99         0.001437        40                   53                   26         http://polycentric.cpp.edu/category/announcements/ 
+100        0.001437        40                   55                   28         http://polycentric.cpp.edu/archives/ 

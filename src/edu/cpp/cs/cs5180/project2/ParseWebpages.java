@@ -20,13 +20,15 @@ import org.jsoup.select.NodeVisitor;
 public class ParseWebpages {
 	private String dir;
 	private ArrayList<Webpage> webpages = new ArrayList<Webpage>();
+	private ArrayList<Webpage> zeroOutlinks = new ArrayList<Webpage>();
+	private ArrayList<Webpage> zeroInlinks = new ArrayList<Webpage>();
 
 	public ParseWebpages(String dir) {
 		this.dir = dir;
 		initWebPages();
-		initCurPageRanks();
 		initOutLinks();
 		initInLinks();
+		initCurPageRanks();
 	}
 	
 	/**
@@ -38,7 +40,7 @@ public class ParseWebpages {
 		String filePath = "";
 		String url = "";
 		int num = 1;
-		
+		// Go through every file in the folder
 		for (File file : listOfFiles) {
 			filePath = folder + "/" + file.getName();
 			File webPageFile = new File(filePath);
@@ -46,20 +48,17 @@ public class ParseWebpages {
 			url = getURL(webPageFile);
 			// Create a webpage object with the url
 			Webpage wp = new Webpage(url);
+			// Assign a number to each webpage for reference
 			wp.setNum(num);
 			num++;
+			// Temporarily get all the outlinks of the current webpage
 			ArrayList<String> tempOutLinks = new ArrayList<String>();
 			try {
-				Document doc = Jsoup.parse(webPageFile, "UTF-8", "");
+				Document doc = Jsoup.parse(webPageFile, "UTF-8", url);
 				Elements outLinks = doc.select("a[href]");
 				for (Element page : outLinks) {
 					String temp = page.attr("abs:href");
-					// Remove white spaces
-					temp = temp.replaceAll("\\s+", "");
-					// Only add non-empty links
-					if (!temp.equals("")) {
-						tempOutLinks.add(page.attr("abs:href"));
-					}
+					tempOutLinks.add(page.attr("abs:href"));
 				}
 				wp.setTempOutLinks(tempOutLinks);
 			} catch (IOException e) {
@@ -81,6 +80,8 @@ public class ParseWebpages {
 		for (int i = 0; i < webpages.size(); ++i) {
 			webpages.get(i).setOutLinks(webpages);
 		}
+		findZeroOutlinks();
+		removeZeroOutlinks();
 	}
 	
 	/**
@@ -99,12 +100,44 @@ public class ParseWebpages {
 	}
 	
 	/**
-	 * Initializes current PageRank for every webpage. Initial vaule = 1/(total number of webpages)
+	 * Finds webpages with 0 outlinks.
+	 */
+	public void findZeroOutlinks() {
+		for (Webpage wp : webpages) {
+			if (wp.getOutLinksSize() == 0) {
+				zeroOutlinks.add(wp);
+			}
+		}
+	}
+	
+	/**
+	 * Removes webpages with 0 outlinks to handle dangling problem.
+	 */
+	public void removeZeroOutlinks() {
+		for (Webpage wp : zeroOutlinks) {
+			webpages.remove(wp);
+		}
+		
+		for (Webpage wp : webpages) {
+			wp.removeZeroOutlinks(zeroOutlinks);
+		}
+	}
+	
+	/**
+	 * Returns webpages with 0 outlinks. 
+	 * @return webpages with 0 outlinks
+	 */
+	public ArrayList<Webpage> getZeroOutlinks() {
+		return zeroOutlinks;
+	}
+	
+	/**
+	 * Initializes current PageRank for every webpage. Initial value = 1/(total number of webpages)
 	 */
 	public void initCurPageRanks() {
 		int total = webpages.size();
-		for (int i = 0; i < total; ++i) {
-			webpages.get(i).setCurPageRank(1.0/total);
+		for (Webpage wp : webpages) {
+			wp.setCurPageRank(1.0/total);
 		}
 	}
 	
@@ -134,16 +167,20 @@ public class ParseWebpages {
 	 * Prints information of all the webpages.
 	 */
 	public void printInfo() {
+		double totalPR = 0.0;
+		System.out.println("Size of webpages: " + webpages.size());
 		System.out.println("----------------------------------------------------------------");
-		for (int i = 0; i < webpages.size(); ++i) {
-			System.out.println("URL: " + webpages.get(i).getUrl());
-			System.out.println("Num: " + webpages.get(i).getNum());
-			System.out.println("Current PageRank: " + webpages.get(i).getCurPageRank());
-			System.out.println("Next PageRank: " + webpages.get(i).getNextPageRank());
-			System.out.println("Number of outlinks: " + webpages.get(i).getOutLinksSize());
-			System.out.println("Number of inlinks: " + webpages.get(i).getInLinksSize());
+		for (Webpage wp: webpages) {
+			System.out.println("URL: " + wp.getUrl());
+			System.out.println("Num: " + wp.getNum());
+			System.out.println("Current PageRank: " + wp.getCurPageRank());
+			totalPR += wp.getCurPageRank();
+			System.out.println("Next PageRank: " + wp.getNextPageRank());
+			System.out.println("Number of outlinks: " + wp.getOutLinksSize());
+			System.out.println("Number of inlinks: " + wp.getInLinksSize());
 			System.out.println("----------------------------------------------------------------");
 		}
+		System.out.println("Total PR: " + totalPR);
 	}
 	
 	/**

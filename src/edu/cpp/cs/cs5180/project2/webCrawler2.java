@@ -1,3 +1,4 @@
+package edu.cpp.cs.cs5180.project2;
 import org.jsoup.Jsoup;
 import org.jsoup.Connection;
 import org.jsoup.nodes.Document;
@@ -33,7 +34,7 @@ public class webCrawler2 {
 	public void getLinks(String URL, int depth) {
 		// Checks if the URL has already been crawled
 		// if the link is not in the hash table, add the link in the table
-		if ((!links.containsKey(URL) && (depth < MAX_DEPTH) && (URL.contains("cpp")))) {
+		if ((!links.containsKey(URL) && (depth < MAX_DEPTH) && (URL.contains("cpp.edu")))) {
 			try {
 				// Fetch HTML code and parse it to find all the outlinks
 				// on the current URL
@@ -55,7 +56,7 @@ public class webCrawler2 {
 				Connection.Response response = Jsoup.connect(URL).execute();
 				Document responseDoc = response.parse();
 				// Writes a html file of the current URL into repository folder
-				FileWriter myWriter = new FileWriter("./repository/" + document.title().replace(" ", "").replace(":", "").replace("|", "") + ".html", true);
+				FileWriter myWriter = new FileWriter("./repository1/" + document.title().replace(" ", "").replace(":", "").replace("|", "") + ".html", true);
 				myWriter.write("<!--" + URL + "-->" + System.lineSeparator());
 				myWriter.write(responseDoc.outerHtml());
 				myWriter.close();

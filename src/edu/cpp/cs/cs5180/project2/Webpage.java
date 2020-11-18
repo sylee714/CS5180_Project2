@@ -67,6 +67,12 @@ public class Webpage implements Comparable<Webpage> {
 		}
 	}
 	
+	public void removeZeroOutlinks(ArrayList<Webpage> zeroOutlinks) {
+		for (Webpage wp : zeroOutlinks) {
+			outLinks.remove(wp);
+		}
+	}
+	
 	public void printOutLinks() {
 		System.out.println("Number of Outlinks: " + outLinks.size());
 		for (int i = 0; i < outLinks.size(); ++i) {
@@ -107,6 +113,10 @@ public class Webpage implements Comparable<Webpage> {
 		return inLinks.contains(wp);
 	}
 	
+	/**
+	 * Checks if current PR = next PR for convergence
+	 * @return
+	 */
 	public boolean isConvergence() {
 		return curPageRank == nextPageRank;
 	}
